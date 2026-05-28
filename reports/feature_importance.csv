@@ -1,0 +1,8 @@
+Feature,Importance
+TotalPremium,0.35784968470253603
+SumInsured,0.250645936991155
+CalculatedPremiumPerTerm,0.2503918714203601
+VehicleAge,0.056499380223061405
+Province_encoded,0.04517929754509362
+Gender_encoded,0.021167135646715657
+VehicleType_encoded,0.018266693471078125
