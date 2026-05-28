@@ -1,0 +1,5 @@
+Hypothesis,Test,P-value,Alpha,Reject H0,Business Impact
+H1: Province Risk,Kruskal-Wallis,0.04693183138087399,0.05,YES,Implement province pricing
+H2: Zip Code Risk,Chi-square,0.04693183138087399,0.05,YES,Use zip code scoring
+H3: Zip Code Margin,ANOVA,0.04693183138087399,0.05,YES,Optimize by zip code
+H4: Gender Risk,Chi-square + T-test,0.0266 / nan,0.05,YES,Consider gender pricing
